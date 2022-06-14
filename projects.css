@@ -70,6 +70,7 @@ section{
 	padding: 50px;
 	border-radius: 20px;
     align-content: center;
+								justify-content: center;
   }
   .grid-item {
 	background-color: #fff;
@@ -77,6 +78,8 @@ section{
 	padding: 20px;
 	font-size: 20px;
 	text-align: center;
+	  align-content: center;
+								justify-content: center;
   }
 button{
 		margin-right: 20px;
